@@ -1,0 +1,31 @@
+*{
+		margin: 0;
+		padding: 0;
+}
+
+.ghyph-infor3{
+	background-color: #337ab7 !important;
+    color: #FFF !important;
+}
+
+.input-border-infor3{
+	border-color: #337ab7 !important;
+}
+
+#nav-main{
+	    height: 82px;
+	    background: #3E5C9A;
+	    width: 100%;
+}
+
+#nav-main-elements{
+	margin: 0 auto;
+	width: 880px;
+	height: 82px;
+}
+
+#nav-main-btn{
+	float: right;
+	margin-top: 30px;
+}
+
